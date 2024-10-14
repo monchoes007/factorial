@@ -21,6 +21,7 @@ public class Proryecto1 {
             return numero*factorial(numero-1);
         }else{
             return 1;
+            
         }
     
     }
